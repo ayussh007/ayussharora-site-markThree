@@ -46,6 +46,11 @@ hr {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+    margin-left: 1rem;
+}
+
+.button-centre {
+    margin-left: 15rem;
 }
 
 /** lists **/
@@ -118,6 +123,9 @@ hr {
 .ow {
     background-color: var(--off-white);
 }
+
+/** contact ** /
+
 
 /** footer **/
 
