@@ -120,6 +120,11 @@ hr {
     text-align:  center;    
 }
 
+.paragraph {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 4rem;
+}
+
 .ow {
     background-color: var(--off-white);
 }
