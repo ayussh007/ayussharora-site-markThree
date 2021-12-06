@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,400;1,700&display=swap');
 
 :root {
-    --primary-color: #7C3AED;
+    --primary-color: #2563EB;
     --off-white: #F3F4F6;
     --dark-gray: #687280;
 }
@@ -39,6 +39,7 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    margin-bottom: 5%;
 
 }
 
