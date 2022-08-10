@@ -129,6 +129,21 @@ hr {
     background-color: var(--off-white);
 }
 
+.blogbody{
+    margin: auto;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-align: justify;
+}
+
+.sub{
+    text-align: center;
+}
+
+.sub1{
+    text-align: center;
+}
+
 /** contact ** /
 
 
